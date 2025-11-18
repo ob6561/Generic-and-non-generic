@@ -6,6 +6,7 @@
     <RootNamespace>Generic_and_non_generic</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Generic_and_non_generic.Queue_using_2_stacks</StartupObject>
   </PropertyGroup>
 
 </Project>
